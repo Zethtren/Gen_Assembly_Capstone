@@ -36,7 +36,7 @@ https://nats.gitlab.io/swc/
 
 Data will be processed in using soundfile and librosa libraries I found by exploring Github- 
 
-![data](./resources/Audio_Example.png)
+![data](./resources/Audio_Example.png | width=100)
 
 I will make several columns in my df:
 
