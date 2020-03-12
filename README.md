@@ -1,3 +1,6 @@
+###### Pre-word: 3.1-4.1 and the associated function modules are not complete. They are merely included to show the entirety of my work process. They will continue to be updated from this point.
+
+
 ## Overview:
 
 The purpose of this projects was to explore the nuances behind building programs that can "listen". Examples of such software include Siri, Alexa, and Google Assistant.
