@@ -1,5 +1,12 @@
 ###### Pre-word: 3.1-4.1 and the associated function modules are not complete. They are merely included to show the entirety of my work process. They will continue to be updated from this point.
 
+# As of now this workflow will not run from cloning.
+I will remove this if this changes. There are a ton of unique dependencies and installations that are not scripted for automatic installation. However, you are still free to clone or use this code for any purpose. Some of the models are based off keras' and tensorflows open source tutorials minor modifications were made to make this work specifically with update versions and the datasets of my choice. 
+
+In the future I intend to create a notebook which will run from top to bottom with all of the necesarry installations. As of now the data used occupies roughly 120GB of Harddisk space. So I aim to set up to load pretrained models and demonstrate on smaller segments of data. 
+
+This is a long-term project that is in share mode because it was started as a school project. Any contributions are more than welcome! This is a learning process for me and I hope to make an extremely readable and easy to understand walkthrough on speech-to-text modeling in TensorFlow.
+
 
 ## Overview:
 
